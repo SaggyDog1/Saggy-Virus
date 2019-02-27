@@ -1,0 +1,1 @@
+x=msgbox("Error", Button+Icon, "Windows has encountered a error.")

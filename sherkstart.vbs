@@ -1,0 +1,1 @@
+x=msgbox("Sherk Error", Button+Icon, "SOME BODY ONCE TOLD ME THE WORLD WAS GONNA...")
