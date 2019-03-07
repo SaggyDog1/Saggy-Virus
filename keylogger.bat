@@ -1,7 +1,7 @@
 @echo off
 setlocal EnableDelayedExpansion
 
-color 0a
+color C
 title Keylogger
 
 set "chars= qwertyuiopasdfghjklzxcvbnm1234567890"
